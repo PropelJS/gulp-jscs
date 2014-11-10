@@ -35,7 +35,7 @@
   ],
   "dependencies": {
     "gulp-util": "^3.0.0",
-    "jscs": "https://npm.fury.io/GTpAPYjxGn3jnpGRdN3L/thotjs/jscs/-/latest.tgz",
+    "jscs": "git://github.com/PropelJS/node-jscs",
     "through2": "^0.6.1"
   },
   "devDependencies": {
